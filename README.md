@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhsin-42" alt="muhsin-42" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@muhsinnissar" target="blank"><img src="https://img.shields.io/twitter/follow/@muhsinnissar?logo=twitter&style=for-the-badge" alt="@muhsinnissar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muhsin_js" target="blank"><img src="https://img.shields.io/twitter/follow/@muhsinnissar?logo=twitter&style=for-the-badge" alt="@muhsinnissar" /></a> </p>
 
 - 📫 How to reach me **muhsinofficial21@gmail.com**
 
