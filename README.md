@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/muhsin_js" target="blank"><img src="https://img.shields.io/twitter/follow/@muhsinnissar?logo=twitter&style=for-the-badge" alt="@muhsinnissar" /></a> </p>
 
 - 📫 How to reach me **muhsinofficial21@gmail.com**
-- 💼 Portfolio https://muhsin-42.github.io/portfolio.github.io/
+- 💼 Portfolio **https://muhsin-abdul-nissar.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
