@@ -30,7 +30,7 @@
 </p>
 
 <div style="display: flex; justify-content: center;">
-    <img style="width: 100px" src="https://github-readme-stats.vercel.app/api?username=muhsin-42&show_icons=true&locale=en" alt="muhsin-42" />
-    <img style="width: 100px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhsin-42&" alt="muhsin-42" />
+    <img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=muhsin-42&show_icons=true&locale=en" alt="muhsin-42" />
+    <img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhsin-42&" alt="muhsin-42" />
 </div>
 
