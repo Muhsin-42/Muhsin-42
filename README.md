@@ -29,9 +29,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-<div>
-        <img src="https://github-readme-stats.vercel.app/api?username=muhsin-42&show_icons=true&locale=en" alt="muhsin-42" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhsin-42&" alt="muhsin-42" />
-</div>
+<div align="center" ><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhsin-42&" alt="muhsin-42" /></div>
 
 
