@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhsin A Nissar</h1>
-<h3 align="center">A coding enthusiast from India</h3>
+<h3 align="center">A Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsin-42&label=Profile%20views&color=0e75b6&style=flat" alt="muhsin-42" /> </p>
 
