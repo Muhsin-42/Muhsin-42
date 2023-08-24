@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhsin Nissar</h1>
+<h1 align="center">Hi 👋, I'm Muhsin A Nissar</h1>
 <h3 align="center">A Front End Developer from India.</h3>
 
 
