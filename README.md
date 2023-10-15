@@ -6,7 +6,7 @@
 ### <div align="center">Hii!,I'm Muhsin, a full-time full-stack developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working as Front-End Developer.
+- 🔭 I’m currently working as NextJS Developer.
   
 
 - 🌱 I’m currently learning NextJs.  
