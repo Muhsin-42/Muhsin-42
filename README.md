@@ -105,8 +105,8 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=r57vpm5yajpilx0p6ywizn4ea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=r57vpm5yajpilx0p6ywizn4ea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+-->
 <br/>  
 
 <div align="center">
