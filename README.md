@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love building things.
   
 
-<br/>  
+<br/>
 
 
 ## My Skill Set  
