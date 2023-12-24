@@ -3,7 +3,7 @@
 </div>  
    
 
-### <div align="center">Hii!,I'm Muhsin, a full-time full-stack developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">Hii, I'm Muhsin, a self taught full-stack developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working as Front-End Developer (NextJs).
