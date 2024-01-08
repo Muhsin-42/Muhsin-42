@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as Front-End Developer (NextJs).
   
 
-- 🌱 I’m currently learning NextJs.  
+- 🌱 I’m currently learning Dockerization.  
   
 
 - ❓ Ask me anything related to MERN stack and related technologies. 
