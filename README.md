@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Dockerization.  
   
 
-- ❓ Ask me anything related to MERN stack and related technologies. 
+- ❓ Ask me anything related to MERN stack + NextJs and related technologies. 
   
 
 - ⚡ Fun fact: I love building things.
