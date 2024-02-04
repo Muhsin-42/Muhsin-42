@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Muhsin-42&&style=flat-square" align="center" />
+</div>  
+  
 <div align="center">
 
 </div>  
@@ -92,7 +97,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhsin-42&theme=vue-dark&hide_border=true" align="center" /></div>  
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsin-42&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsin-42&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" align="center" /></div>   -->
 <br/>  
 
 
@@ -109,10 +114,6 @@
 -->
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Muhsin-42&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
