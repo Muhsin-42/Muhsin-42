@@ -11,7 +11,7 @@
 ### <div align="center">Hii, I'm Muhsin, a Self Taught Full-stack developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working as Front-End Developer (NextJs).
+- 🔭 I’m currently working as Full-Stack Developer (MERN + NextJs).
   
 
 - 🌱 I’m currently learning Dockerization.  
