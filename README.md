@@ -20,7 +20,7 @@
 - ❓ Ask me anything related to MERN stack + NextJs and related technologies. 
   
 
-- ⚡ Fun fact: I love building things.
+- ⚡ Fun fact: I can denter div.
   
 
 <br/>
