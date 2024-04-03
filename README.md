@@ -8,7 +8,7 @@
 </div>  
    
 
-### <div align="center">Hii, I'm Muhsin, a Self Taught Full-stack developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">Hii, I'm Muhsin, a Self Taught Full-stack Engineer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working as Full-Stack Developer (MERN + NextJs).
