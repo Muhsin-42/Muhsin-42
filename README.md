@@ -20,7 +20,7 @@
 - ❓ Ask me anything related to MERN stack + NextJs and related technologies. 
   
 
-- ⚡ Fun fact: I can denter div.
+- ⚡ Fun fact: I can center div.
   
 
 <br/>
