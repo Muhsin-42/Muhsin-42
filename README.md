@@ -8,10 +8,10 @@
 </div>  
    
 
-### <div align="center">Hii, I'm Muhsin, a Self Taught Full-stack Engineer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">Hii, I'm Muhsin, Engineering Lead 👨‍💻 Exploring tech since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working as Full-Stack Developer (MERN + NextJs).
+- 🔭 I’m currently working as Engineering Team Lead at a startup.
   
 
 - 🌱 I’m currently learning Dockerization.  
@@ -20,7 +20,7 @@
 - ❓ Ask me anything related to MERN stack + NextJs and related technologies. 
   
 
-- ⚡ Fun fact: I can center div.
+- 💨 I Smoke Javascript.
   
 
 <br/>
