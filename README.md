@@ -14,10 +14,10 @@
 - 🔭 I’m currently working as Engineering Team Lead at a startup.
   
 
-- 🌱 I’m currently learning Dockerization.  
+- 🌱 Exploring technologies daily.  
   
 
-- ❓ Ask me anything related to MERN stack + NextJs and related technologies. 
+- ❓ Connect me related to MERN + NextJs + Devops and related technologies. 
   
 
 - 💨 I Smoke Javascript.
