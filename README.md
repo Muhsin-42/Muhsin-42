@@ -95,7 +95,7 @@
 
 
 ## Github Stats  
-![](https://nirzak-streak-stats.vercel.app/?user=ashmil19&theme=gotham&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Muhsin-42&theme=gotham&hide_border=true)
 <br/>
 <!--
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhsin-42&theme=vue-dark&hide_border=true" align="center" /></div>  
