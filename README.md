@@ -39,8 +39,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhsin-42&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhsin-42&layout=compact&hide_border=true&bg_color=FFFFFF00&langs_count=8" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhsin-42/Muhsin-42/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Muhsin-42/Muhsin-42/output/snake.svg" alt="Contribution snake" />
 </picture>
 
 </div>
