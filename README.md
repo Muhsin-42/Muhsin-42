@@ -17,9 +17,6 @@
 - 🌱 Exploring technologies daily.  
   
 
-- ❓ Connect me related to MERN + NextJs + Devops and related technologies. 
-  
-
 - 💨 I Smoke Javascript.
   
 
