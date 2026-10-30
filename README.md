@@ -1,86 +1,46 @@
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Muhsin-42&&style=flat-square" align="center" />
-</div>  
-  
 <div align="center">
 
-</div>  
-   
+# Hi, I'm Muhsin 👋
 
-### <div align="center">Hii, I'm Muhsin, Engineering Lead 👨‍💻 Exploring tech since 2020 🚀</div>  
-  
+**Engineering Lead** · building products since 2019
 
-- 🔭 I’m currently working as Engineering Team Lead at a startup.
-  
+<a href="https://github.com/Muhsin-42"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/muhsindotjs"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/muhsin-a-nissar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=Muhsin-42&style=flat-square&color=555555&label=views" alt="Profile views" />
 
-- 🌱 Exploring technologies daily.  
-  
-
-- 💨 I Smoke Javascript.
-  
+</div>
 
 <br/>
 
+### About
 
+- 🔭 Engineering Team Lead at a startup
+- 🌱 Exploring new technologies daily
+- 💨 I smoke JavaScript
 
-## Connect with me
-<div align="center">
-<a href="https://github.com/Muhsin-42" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/muhsindotjs" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/muhsin-a-nissar/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://instagram.com/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>   -->
-</div>  
-
-
-<br/>  
-
-
-## Github Stats  
-![](https://nirzak-streak-stats.vercel.app/?user=Muhsin-42&theme=gotham&hide_border=true)
 <br/>
-<!--
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhsin-42&theme=vue-dark&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhsin-42&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" align="center" /></div>   -->
-<br/>  
+### Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,postgres,docker,git&perline=10" alt="Tech stack" />
+</p>
 
-<!-- ## Recent Blog Posts   -->
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Node.js HTTP magic! - A guide for Beginners!!](https://djcodes.hashnode.dev/nodejs-http-magic-a-guide-for-beginners)
-- [JSON Web Token &lpar;JWT&rpar; explained!](https://djcodes.hashnode.dev/json-web-token-jwt-explained)
-- [API for Noobies :&rpar;](https://djcodes.hashnode.dev/api-for-noobies) -->
-<!-- BLOG-POST-LIST:END -->  
+<br/>
 
-<br/>  
+### Stats
 
-<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=r57vpm5yajpilx0p6ywizn4ea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
--->
-<br/>  
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Muhsin-42&theme=dark&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com/?user=Muhsin-42&theme=default&hide_border=true&background=FFFFFF00" alt="GitHub streak" />
+</picture>
 
-<br/>  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhsin-42&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhsin-42&layout=compact&hide_border=true&bg_color=FFFFFF00&langs_count=8" alt="Top languages" />
+</picture>
 
-<!-- <div align="center">
-            <a href="https://www.buymeacoffee.com/divyej" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br /> -->
+</div>
